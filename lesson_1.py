@@ -6,3 +6,6 @@ def func2():
 
 def func3():
     return 8
+
+def func7():
+    print("1")
