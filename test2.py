@@ -15,3 +15,6 @@ def sum_nums(x, y):
 
 def hello():
     print("hello")
+
+def barak():
+    print("barak")
