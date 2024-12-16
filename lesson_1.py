@@ -6,3 +6,4 @@ def func2():
 
 def func3():
     return 8
+
