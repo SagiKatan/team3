@@ -13,3 +13,5 @@ def printx(x):
 def sum_nums(x, y):
     return x + y
 
+def print_hello(name):
+    print(f"hello {name}!")
