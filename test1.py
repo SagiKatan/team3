@@ -4,3 +4,5 @@ def func1():
 def func2():
     print(2)
 
+def multiply(x, y):
+    return x * y
