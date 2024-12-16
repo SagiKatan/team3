@@ -9,3 +9,6 @@ def multiply(x, y):
 
 def print2():
     print(2)
+
+def print3():
+    print(3)
