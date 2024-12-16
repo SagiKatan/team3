@@ -3,3 +3,6 @@ def print_name(name):
 
 def print9():
     print(9)
+
+def print1():
+    print(1)
