@@ -6,3 +6,6 @@ def func2():
 
 def multiply(x, y):
     return x * y
+
+def print2():
+    print(2)
