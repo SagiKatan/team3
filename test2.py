@@ -9,3 +9,7 @@ def print1():
 
 def printx(x):
     print(x)
+
+def sum_nums(x, y):
+    return x + y
+
